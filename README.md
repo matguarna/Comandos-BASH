@@ -4,22 +4,25 @@ CTRL+ALT+T = Abrir terminal
 
 ## Comandos
 
-| comando         | descripcion                  |
-| --------------- | ---------------------------- |
-| `(sh)`          | son los ejecutables de Linux |
-| `Sudo +comando` | aplica en modo admin         |
-| `Clear`         | limpia la consola            |
-| `(sh)`          | son los ejecutables de Linux |
-| `(sh)`          | son los ejecutables de Linux |
-
-`Kill -9 numerodeproceso` mata al proceso (se ven con ps –ef)
-
-`Exit` sale de la terminal
-
-`Shutdown –h` Linux se apaga en un minuto
-
-`Shutdown –h 0` Linux se apaga inmediatamente (o shutdown now)
-
+| comando                   | descripcion                                    |
+| ------------------------- | ---------------------------------------------- |
+| `(sh)`                    | son los ejecutables de Linux                   |
+| `Sudo +comando`           | aplica en modo admin                           |
+| `Clear`                   | limpia la consola                              |
+| `Kill -9 numerodeproceso` | mata al proceso (se ven con ps –ef)            |
+| `Exit`                    | sale de la terminal                            |
+| `Shutdown –h`             | Linux se apaga en un minuto                    |
+| `Shutdown –h 0`           | Linux se apaga inmediatamente (o shutdown now) |
+| `(sh)`                    | son los ejecutables de Linux                   |
+| `(sh)`                    | son los ejecutables de Linux                   |
+| `(sh)`                    | son los ejecutables de Linux                   |
+| `(sh)`                    | son los ejecutables de Linux                   |
+| `(sh)`                    | son los ejecutables de Linux                   |
+| `(sh)`                    | son los ejecutables de Linux                   |
+| `(sh)`                    | son los ejecutables de Linux                   |
+| `(sh)`                    | son los ejecutables de Linux                   |
+| `(sh)`                    | son los ejecutables de Linux                   |
+| `(sh)`                    | son los ejecutables de Linux                   |
 
 ## PARA ARCHIVOS
 
@@ -196,5 +199,5 @@ Grep –sc error \*.log = busca &quot;error&quot; en los ficheros donde se produ
 Grep –si error \*.log = busca &quot;error&quot; en los ficheros donde se produzca esta coincidencia, sin importar mayus o minúsculas.
 
 ```js
-const ian = "pt";
+const ian = 'pt'
 ```
