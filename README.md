@@ -140,5 +140,5 @@ CTRL+ALT+T = Abrir terminal
 ## Escrbir código en Markdown
 
 ```js
-const ian = 'pt'
+const ian = "pt";
 ```
