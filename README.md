@@ -20,7 +20,7 @@ CTRL+ALT+T = Abrir terminal
 | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `mkdir`                          | crea un directorio                                                                                                                                                    |
 | `sudo +comando`                  | aplica en modo admin                                                                                                                                                  |
-| `slear`                          | limpia la consola                                                                                                                                                     |
+| `clear`                          | limpia la consola                                                                                                                                                     |
 | `touch nombrearchivo`            | crea un archivo vacío                                                                                                                                                 |
 | `touch archivo.txt`              | permite crear un archivo, con la extensión mencionada                                                                                                                 |
 | `> archivo.txt `                 | igual que touch, crea un archivo                                                                                                                                      |
@@ -140,5 +140,5 @@ CTRL+ALT+T = Abrir terminal
 ## Escrbir código en Markdown
 
 ```js
-const ian = 'pt'
+const ian = "pt";
 ```
